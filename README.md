@@ -2,8 +2,6 @@
 
 Final project submission for [CS50x 2021](https://cs50.harvard.edu/x/2021/project/).
 
-## Overview
-
 Fitness Frenzy is a full-stack web app for creating, editing, and sharing workouts.
 It includes an exercise library with metadata such as target muscles and required equipment.
 
